@@ -1,0 +1,10 @@
+C:\Users\Harold-dev-machine\Desktop\ResortPrices\ResortPrices\bin\Debug\ResortPrices.exe.config
+C:\Users\Harold-dev-machine\Desktop\ResortPrices\ResortPrices\bin\Debug\ResortPrices.exe
+C:\Users\Harold-dev-machine\Desktop\ResortPrices\ResortPrices\bin\Debug\ResortPrices.pdb
+C:\Users\Harold-dev-machine\Desktop\ResortPrices\ResortPrices\obj\Debug\ResortPrices.csprojAssemblyReference.cache
+C:\Users\Harold-dev-machine\Desktop\ResortPrices\ResortPrices\obj\Debug\ResortPrices.Form1.resources
+C:\Users\Harold-dev-machine\Desktop\ResortPrices\ResortPrices\obj\Debug\ResortPrices.Properties.Resources.resources
+C:\Users\Harold-dev-machine\Desktop\ResortPrices\ResortPrices\obj\Debug\ResortPrices.csproj.GenerateResource.cache
+C:\Users\Harold-dev-machine\Desktop\ResortPrices\ResortPrices\obj\Debug\ResortPrices.csproj.CoreCompileInputs.cache
+C:\Users\Harold-dev-machine\Desktop\ResortPrices\ResortPrices\obj\Debug\ResortPrices.exe
+C:\Users\Harold-dev-machine\Desktop\ResortPrices\ResortPrices\obj\Debug\ResortPrices.pdb

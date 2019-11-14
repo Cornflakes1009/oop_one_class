@@ -1,0 +1,11 @@
+C:\Users\Harold-dev-machine\Desktop\TipCalculation\TipCalculation\obj\Debug\netcoreapp2.1\TipCalculation.csprojAssemblyReference.cache
+C:\Users\Harold-dev-machine\Desktop\TipCalculation\TipCalculation\obj\Debug\netcoreapp2.1\TipCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Harold-dev-machine\Desktop\TipCalculation\TipCalculation\obj\Debug\netcoreapp2.1\TipCalculation.AssemblyInfoInputs.cache
+C:\Users\Harold-dev-machine\Desktop\TipCalculation\TipCalculation\obj\Debug\netcoreapp2.1\TipCalculation.AssemblyInfo.cs
+C:\Users\Harold-dev-machine\Desktop\TipCalculation\TipCalculation\bin\Debug\netcoreapp2.1\TipCalculation.deps.json
+C:\Users\Harold-dev-machine\Desktop\TipCalculation\TipCalculation\bin\Debug\netcoreapp2.1\TipCalculation.runtimeconfig.json
+C:\Users\Harold-dev-machine\Desktop\TipCalculation\TipCalculation\bin\Debug\netcoreapp2.1\TipCalculation.runtimeconfig.dev.json
+C:\Users\Harold-dev-machine\Desktop\TipCalculation\TipCalculation\bin\Debug\netcoreapp2.1\TipCalculation.dll
+C:\Users\Harold-dev-machine\Desktop\TipCalculation\TipCalculation\bin\Debug\netcoreapp2.1\TipCalculation.pdb
+C:\Users\Harold-dev-machine\Desktop\TipCalculation\TipCalculation\obj\Debug\netcoreapp2.1\TipCalculation.dll
+C:\Users\Harold-dev-machine\Desktop\TipCalculation\TipCalculation\obj\Debug\netcoreapp2.1\TipCalculation.pdb

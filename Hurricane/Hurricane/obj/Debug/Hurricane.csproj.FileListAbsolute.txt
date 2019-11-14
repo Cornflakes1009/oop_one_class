@@ -1,0 +1,10 @@
+C:\Users\Harold-dev-machine\Desktop\Hurricane\Hurricane\bin\Debug\Hurricane.exe.config
+C:\Users\Harold-dev-machine\Desktop\Hurricane\Hurricane\bin\Debug\Hurricane.exe
+C:\Users\Harold-dev-machine\Desktop\Hurricane\Hurricane\bin\Debug\Hurricane.pdb
+C:\Users\Harold-dev-machine\Desktop\Hurricane\Hurricane\obj\Debug\Hurricane.csprojAssemblyReference.cache
+C:\Users\Harold-dev-machine\Desktop\Hurricane\Hurricane\obj\Debug\Hurricane.Form1.resources
+C:\Users\Harold-dev-machine\Desktop\Hurricane\Hurricane\obj\Debug\Hurricane.Properties.Resources.resources
+C:\Users\Harold-dev-machine\Desktop\Hurricane\Hurricane\obj\Debug\Hurricane.csproj.GenerateResource.cache
+C:\Users\Harold-dev-machine\Desktop\Hurricane\Hurricane\obj\Debug\Hurricane.csproj.CoreCompileInputs.cache
+C:\Users\Harold-dev-machine\Desktop\Hurricane\Hurricane\obj\Debug\Hurricane.exe
+C:\Users\Harold-dev-machine\Desktop\Hurricane\Hurricane\obj\Debug\Hurricane.pdb

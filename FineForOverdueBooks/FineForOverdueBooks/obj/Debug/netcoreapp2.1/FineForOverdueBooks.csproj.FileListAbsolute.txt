@@ -1,0 +1,11 @@
+C:\Users\Harold-dev-machine\Desktop\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\netcoreapp2.1\FineForOverdueBooks.deps.json
+C:\Users\Harold-dev-machine\Desktop\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\netcoreapp2.1\FineForOverdueBooks.runtimeconfig.json
+C:\Users\Harold-dev-machine\Desktop\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\netcoreapp2.1\FineForOverdueBooks.runtimeconfig.dev.json
+C:\Users\Harold-dev-machine\Desktop\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\netcoreapp2.1\FineForOverdueBooks.dll
+C:\Users\Harold-dev-machine\Desktop\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\netcoreapp2.1\FineForOverdueBooks.pdb
+C:\Users\Harold-dev-machine\Desktop\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\netcoreapp2.1\FineForOverdueBooks.csprojAssemblyReference.cache
+C:\Users\Harold-dev-machine\Desktop\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\netcoreapp2.1\FineForOverdueBooks.csproj.CoreCompileInputs.cache
+C:\Users\Harold-dev-machine\Desktop\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\netcoreapp2.1\FineForOverdueBooks.AssemblyInfoInputs.cache
+C:\Users\Harold-dev-machine\Desktop\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\netcoreapp2.1\FineForOverdueBooks.AssemblyInfo.cs
+C:\Users\Harold-dev-machine\Desktop\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\netcoreapp2.1\FineForOverdueBooks.dll
+C:\Users\Harold-dev-machine\Desktop\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\netcoreapp2.1\FineForOverdueBooks.pdb

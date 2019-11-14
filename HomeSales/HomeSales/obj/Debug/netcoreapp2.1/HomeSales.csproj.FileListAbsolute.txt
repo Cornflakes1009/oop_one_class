@@ -1,0 +1,11 @@
+C:\Users\Harold-dev-machine\Desktop\HomeSales\HomeSales\bin\Debug\netcoreapp2.1\HomeSales.deps.json
+C:\Users\Harold-dev-machine\Desktop\HomeSales\HomeSales\bin\Debug\netcoreapp2.1\HomeSales.runtimeconfig.json
+C:\Users\Harold-dev-machine\Desktop\HomeSales\HomeSales\bin\Debug\netcoreapp2.1\HomeSales.runtimeconfig.dev.json
+C:\Users\Harold-dev-machine\Desktop\HomeSales\HomeSales\bin\Debug\netcoreapp2.1\HomeSales.dll
+C:\Users\Harold-dev-machine\Desktop\HomeSales\HomeSales\bin\Debug\netcoreapp2.1\HomeSales.pdb
+C:\Users\Harold-dev-machine\Desktop\HomeSales\HomeSales\obj\Debug\netcoreapp2.1\HomeSales.csprojAssemblyReference.cache
+C:\Users\Harold-dev-machine\Desktop\HomeSales\HomeSales\obj\Debug\netcoreapp2.1\HomeSales.csproj.CoreCompileInputs.cache
+C:\Users\Harold-dev-machine\Desktop\HomeSales\HomeSales\obj\Debug\netcoreapp2.1\HomeSales.AssemblyInfoInputs.cache
+C:\Users\Harold-dev-machine\Desktop\HomeSales\HomeSales\obj\Debug\netcoreapp2.1\HomeSales.AssemblyInfo.cs
+C:\Users\Harold-dev-machine\Desktop\HomeSales\HomeSales\obj\Debug\netcoreapp2.1\HomeSales.dll
+C:\Users\Harold-dev-machine\Desktop\HomeSales\HomeSales\obj\Debug\netcoreapp2.1\HomeSales.pdb

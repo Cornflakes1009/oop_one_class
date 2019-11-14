@@ -1,0 +1,11 @@
+C:\Users\Harold-dev-machine\Desktop\DailyTemps\DailyTemps\bin\Debug\netcoreapp2.1\DailyTemps.deps.json
+C:\Users\Harold-dev-machine\Desktop\DailyTemps\DailyTemps\bin\Debug\netcoreapp2.1\DailyTemps.runtimeconfig.json
+C:\Users\Harold-dev-machine\Desktop\DailyTemps\DailyTemps\bin\Debug\netcoreapp2.1\DailyTemps.runtimeconfig.dev.json
+C:\Users\Harold-dev-machine\Desktop\DailyTemps\DailyTemps\bin\Debug\netcoreapp2.1\DailyTemps.dll
+C:\Users\Harold-dev-machine\Desktop\DailyTemps\DailyTemps\bin\Debug\netcoreapp2.1\DailyTemps.pdb
+C:\Users\Harold-dev-machine\Desktop\DailyTemps\DailyTemps\obj\Debug\netcoreapp2.1\DailyTemps.csprojAssemblyReference.cache
+C:\Users\Harold-dev-machine\Desktop\DailyTemps\DailyTemps\obj\Debug\netcoreapp2.1\DailyTemps.csproj.CoreCompileInputs.cache
+C:\Users\Harold-dev-machine\Desktop\DailyTemps\DailyTemps\obj\Debug\netcoreapp2.1\DailyTemps.AssemblyInfoInputs.cache
+C:\Users\Harold-dev-machine\Desktop\DailyTemps\DailyTemps\obj\Debug\netcoreapp2.1\DailyTemps.AssemblyInfo.cs
+C:\Users\Harold-dev-machine\Desktop\DailyTemps\DailyTemps\obj\Debug\netcoreapp2.1\DailyTemps.dll
+C:\Users\Harold-dev-machine\Desktop\DailyTemps\DailyTemps\obj\Debug\netcoreapp2.1\DailyTemps.pdb

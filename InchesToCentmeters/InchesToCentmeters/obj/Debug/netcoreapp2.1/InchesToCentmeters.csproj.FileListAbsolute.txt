@@ -1,0 +1,11 @@
+C:\Users\Harold-dev-machine\Desktop\InchesToCentmeters\InchesToCentmeters\bin\Debug\netcoreapp2.1\InchesToCentmeters.deps.json
+C:\Users\Harold-dev-machine\Desktop\InchesToCentmeters\InchesToCentmeters\bin\Debug\netcoreapp2.1\InchesToCentmeters.runtimeconfig.json
+C:\Users\Harold-dev-machine\Desktop\InchesToCentmeters\InchesToCentmeters\bin\Debug\netcoreapp2.1\InchesToCentmeters.runtimeconfig.dev.json
+C:\Users\Harold-dev-machine\Desktop\InchesToCentmeters\InchesToCentmeters\bin\Debug\netcoreapp2.1\InchesToCentmeters.dll
+C:\Users\Harold-dev-machine\Desktop\InchesToCentmeters\InchesToCentmeters\bin\Debug\netcoreapp2.1\InchesToCentmeters.pdb
+C:\Users\Harold-dev-machine\Desktop\InchesToCentmeters\InchesToCentmeters\obj\Debug\netcoreapp2.1\InchesToCentmeters.csprojAssemblyReference.cache
+C:\Users\Harold-dev-machine\Desktop\InchesToCentmeters\InchesToCentmeters\obj\Debug\netcoreapp2.1\InchesToCentmeters.csproj.CoreCompileInputs.cache
+C:\Users\Harold-dev-machine\Desktop\InchesToCentmeters\InchesToCentmeters\obj\Debug\netcoreapp2.1\InchesToCentmeters.AssemblyInfoInputs.cache
+C:\Users\Harold-dev-machine\Desktop\InchesToCentmeters\InchesToCentmeters\obj\Debug\netcoreapp2.1\InchesToCentmeters.AssemblyInfo.cs
+C:\Users\Harold-dev-machine\Desktop\InchesToCentmeters\InchesToCentmeters\obj\Debug\netcoreapp2.1\InchesToCentmeters.dll
+C:\Users\Harold-dev-machine\Desktop\InchesToCentmeters\InchesToCentmeters\obj\Debug\netcoreapp2.1\InchesToCentmeters.pdb

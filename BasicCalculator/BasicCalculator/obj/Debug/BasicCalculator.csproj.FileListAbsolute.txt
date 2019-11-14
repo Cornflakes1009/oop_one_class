@@ -1,0 +1,10 @@
+C:\Users\Harold-dev-machine\Desktop\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\Harold-dev-machine\Desktop\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\Harold-dev-machine\Desktop\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\Harold-dev-machine\Desktop\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csprojAssemblyReference.cache
+C:\Users\Harold-dev-machine\Desktop\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+C:\Users\Harold-dev-machine\Desktop\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\Harold-dev-machine\Desktop\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\Harold-dev-machine\Desktop\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Harold-dev-machine\Desktop\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\Harold-dev-machine\Desktop\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
